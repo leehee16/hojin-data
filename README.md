@@ -1,6 +1,11 @@
 - data 저장소
 ml, analytics 등등 coding에서 분화..
 
+# pandas 등 라이브러리 스터디
+
+### LF 설정방법
+git : git config --global core.autocrlf false
+vscode : "files.eol": "\n" 
 
 <div align="center">
   <br>
